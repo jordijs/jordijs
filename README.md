@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
 <h3 align="center">Full-stack developer</h3>
 
-- 💬 Curious, creative and eager to learn. I changed journalism to programming with a practical bootcamp. I don't give up until I get problems solved!
+💬 Curious, creative and eager to learn. I changed journalism to programming with a practical bootcamp. I don't give up until I get problems solved!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
